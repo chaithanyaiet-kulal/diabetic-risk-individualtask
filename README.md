@@ -1,6 +1,6 @@
 Diabetes Risk Prediction using Machine Learning
 About the Project
-This project focuses on predicting diabetes risk levels using machine learning classification algorithms.
+This project focuses on predicting diabetes risk levels using machine learning classification algorithms.,
 
 The dataset was obtained from Kaggle and contains health, lifestyle, demographic, and medical information of 15,000 patients.
 
